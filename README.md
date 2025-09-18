@@ -28,4 +28,12 @@ Easily share and transfer files using the Streamlit-powered server:
 
 ---
 
+## 🪸 Coral Bleaching Workflow  
 
+Here’s the workflow representation:  
+
+![Coral Bleaching Workflow](images/i1.png)  
+
+---
+
+✨ _Made with care to make your setup easier!_
