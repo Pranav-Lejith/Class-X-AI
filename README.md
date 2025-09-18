@@ -1,10 +1,18 @@
+> 🚨 **Important Notice**  
+> ------------------------------------------------------------  
+> 🔴 **The OWS file `Sentiment_Analysis-Modded-ADV-Domain-Tagged.ows`  
+> is only for testing purposes and might be unstable.**  
+> ------------
 # 🚀 Project Resources  
 
 Welcome! Below are some useful resources and backup installation links in case you face issues while setting things up.  
 
+
 ---
 
 ## 📦 Module Installation Links (Backup)  
+
+------------------------------------------------  
 
 If the installation fails, you can manually install from these repositories:  
 
@@ -34,17 +42,21 @@ Here’s the workflow representation:
 
 ![Coral Bleaching Workflow](images/i1.png)  
 
-## Data Analytics (Palmer Penguins) Workflow
+---
+
+## 🐧 Data Analytics (Palmer Penguins) Workflow  
 
 Here’s the workflow representation:  
 
 ![Data Analytics Workflow](images/i2.png)  
 
-## Sentiment Analysis Workflow
+---
+
+## 🎭 Sentiment Analysis Workflow  
 
 Here’s the workflow representation:  
 
 ![Sentiment Analysis Workflow](images/i3.png)  
----
 
+---
 
