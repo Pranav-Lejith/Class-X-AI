@@ -34,12 +34,17 @@ Here’s the workflow representation:
 
 ![Coral Bleaching Workflow](images/i1.png)  
 
-## Image Analytics (Palmer Penguins) Workflow
+## Data Analytics (Palmer Penguins) Workflow
 
 Here’s the workflow representation:  
 
-![Image Analytics Workflow](images/i2.png)  
+![Data Analytics Workflow](images/i2.png)  
 
+## Sentiment Analysis Workflow
+
+Here’s the workflow representation:  
+
+![Sentiment Analysis Workflow](images/i3.png)  
 ---
 
 
